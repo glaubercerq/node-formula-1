@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/config/index.ts"],"sourcesContent":["export const config = {\r\n  port: 3333,\r\n  host: '0.0.0.0',\r\n  environment: 'development'\r\n};\r\n"],"mappings":";;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,IAAM,SAAS;AAAA,EACpB,MAAM;AAAA,EACN,MAAM;AAAA,EACN,aAAa;AACf;","names":[]}
